@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<div align = center>
-    📫 How to reach me: ...
+<div align=center>
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=portfolioExpert&show_icons=true&theme=dark)
 </div>
 
